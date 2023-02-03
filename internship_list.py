@@ -8,7 +8,7 @@ df = pd.read_excel('Internship_list.xlsx')
 print(df.head(7))
 
 
-f= open("README.md", "a")
-f.write(df.to_csv())
+f= open("README.md", "w")
+f.write(df.to_markdown())
 f.close()
 #np.savetxt('./README.md', df.values)
