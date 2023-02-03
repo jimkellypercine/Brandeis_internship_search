@@ -1,4 +1,18 @@
-List of internships within the COSI Department 
+
+UDRS
+*****************
+Yalda Mauj       *
+Jimkelly Percine *
+Gabrielle Pile   *
+Gianna Everette  *
+Sydney Cohen     *
+*****************
+
+*Brandeis Handbook*
+https://docs.google.com/document/d/1skDckhZJi6OQxjraKNVEZfxflTE4Jy8kxCJtpNu3O1Y/edit
+
+
+*BRANDEIS INTERNSHIP LIST*
 |    | COMPANY          | NOTES      | Email         |
 |---:|:-----------------|:-----------|:--------------|
 |  0 | FaceBook         | Bad time   | jpe@gmail.com |
