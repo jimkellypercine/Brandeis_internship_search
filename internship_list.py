@@ -9,6 +9,6 @@ print(df.head(7))
 
 
 f= open("README.md", "w")
-f.write(df.to_markdown())
+f.write("List of internships within the COSI Department \n" + df.to_markdown())
 f.close()
 #np.savetxt('./README.md', df.values)

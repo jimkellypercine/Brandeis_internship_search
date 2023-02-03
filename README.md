@@ -1,3 +1,4 @@
+List of internships within the COSI Department 
 |    | COMPANY          | NOTES      | Email         |
 |---:|:-----------------|:-----------|:--------------|
 |  0 | FaceBook         | Great Time | jpe@gmail.com |
