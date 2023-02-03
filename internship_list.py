@@ -8,8 +8,7 @@ df = pd.read_excel('Internship_list.xlsx')
 print(df.head(7))
 df.reset_index(drop=True)
 
-
+#load the dataframe into a markdown file
 f= open("README.md", "w")
-f.write(df.to_string())
+f.write("List of internships within the COSI Department \n" + df.to_markdown())
 f.close()
-#np.savetxt('./README.md', df.values)
