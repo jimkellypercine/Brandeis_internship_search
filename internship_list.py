@@ -9,6 +9,6 @@ print(df.head(7))
 
 
 f= open("README.md", "a")
-f.write(df.to_string())
+f.write(df.to_csv())
 f.close()
 #np.savetxt('./README.md', df.values)
