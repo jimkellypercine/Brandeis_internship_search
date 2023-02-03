@@ -5,7 +5,7 @@ import numpy as np
 df = pd.read_excel('Internship_list.xlsx')
 
 # Display the first 4 rows of the dataframe
-print(df.head(7))
+print(df.head(30))
 df.reset_index(drop=True)
 
 #load the dataframe into a markdown file
