@@ -14,7 +14,7 @@ print(df)
 
 #load the dataframe into a markdown file
 f= open("README.md", "w")
-markdown = '![Brandeis COSCI](brandeispic.png)' 
+markdown = '![](images/brandeispic.png)' 
 f.write(markdown)
 f.write("\n \n BRANDEIS COSCI HANDBOOK: https://docs.google.com/document/d/1skDckhZJi6OQxjraKNVEZfxflTE4Jy8kxCJtpNu3O1Y/edit?usp=gmail \n" + "\n")
 f.write(" \n CURRENT UDRS \n " + "\n".join(["- " + UDRS for UDRS in UDRS]))
