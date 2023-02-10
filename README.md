@@ -1,4 +1,4 @@
-![](images/brandeispic.png)
+![](brandeispic.png)
  
  BRANDEIS COSCI HANDBOOK: https://docs.google.com/document/d/1skDckhZJi6OQxjraKNVEZfxflTE4Jy8kxCJtpNu3O1Y/edit?usp=gmail 
 
