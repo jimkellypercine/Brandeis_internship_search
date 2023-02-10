@@ -9,7 +9,7 @@ df = df.reset_index(drop=True)
 df.index = df.index + 1
 UDRS = ["Yalda Mauj", "Jimkelly Percine", "Gabrielle Pile", "Gianna Everette", "Sydney Cohen"]
 
-df['Application List'] = df['Application List'].str.slice(start=0, stop=20)
+df['Application List'] = df['Application List'].str.slice(start=0, stop=200)
 print(df)
 
 #load the dataframe into a markdown file
