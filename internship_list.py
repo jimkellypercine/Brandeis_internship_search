@@ -18,6 +18,6 @@ markdown = '![Brandeis COSCI](brandeispic.png)'
 f.write(markdown)
 f.write("\n \n BRANDEIS COSCI HANDBOOK: https://docs.google.com/document/d/1skDckhZJi6OQxjraKNVEZfxflTE4Jy8kxCJtpNu3O1Y/edit?usp=gmail \n" + "\n")
 f.write(" \n CURRENT UDRS \n " + "\n".join(["- " + UDRS for UDRS in UDRS]))
-f.write("\n \n Connect with the poeple from our list \n\n CLICK HERE: https://docs.google.com/document/d/1XWu8NFlqvPPQSOIbt93K7tdSejl2mA1KmV7HSjAZLMs/edit?usp=sharing")
+f.write("\n \n Connect with Contributors\n https://docs.google.com/document/d/1XWu8NFlqvPPQSOIbt93K7tdSejl2mA1KmV7HSjAZLMs/edit?usp=sharing")
 f.write("\n \n List of internships within the COSI Department \n" + df.to_markdown(floatfmt=".2f"))
 f.close()
