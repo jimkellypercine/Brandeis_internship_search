@@ -10,6 +10,8 @@ df.index = df.index + 1
 UDRS = ["Yalda Mauj", "Jimkelly Percine", "Gabrielle Pile", "Gianna Everette", "Sydney Cohen"]
 
 df['Application List'] = df['Application List'].str.slice(start=0, stop=200)
+df.style.background_gradient(cmap='Blues')
+pd.options.display.max_colwidth = 20
 print(df)
 
 #load the dataframe into a markdown file
